@@ -1,0 +1,6 @@
+# pandas: leitura, limpeza, estatísticas e agrupamentos.
+# matplotlib: boxplot do número de filhos.
+# ipykernel: execução do notebook no VS Code.
+pandas==3.0.6
+matplotlib==3.11.2
+ipykernel==7.4.0
